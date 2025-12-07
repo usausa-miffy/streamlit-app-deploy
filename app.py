@@ -1,7 +1,5 @@
 import streamlit as st
 
-import streamlit as st
-
 st.title("サンプルアプリ②: 少し複雑なWebアプリ")
 
 st.write("##### 動作モード1: 文字数カウント")
